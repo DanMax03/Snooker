@@ -1,5 +1,5 @@
 # Snooker
-My first game
+Проект "Snooker"
 
 Snooker_Release - текущая реализованная версия
 
